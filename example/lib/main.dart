@@ -1,9 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:http/http.dart';
 import 'package:image_picker/image_picker.dart';
-import 'package:path_provider/path_provider.dart';
 import 'dart:async';
 import 'package:screenshot/screenshot.dart';
 import 'package:social_share/social_share.dart';

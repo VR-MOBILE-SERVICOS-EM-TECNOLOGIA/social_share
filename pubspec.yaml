@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  path_provider: ^1.5.1
+  path_provider: ^1.6.28
 
 dev_dependencies:
   flutter_test:
